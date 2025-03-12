@@ -1,0 +1,16 @@
+{
+  "name": "tuya-local-keys",
+  "version": "1.0.0",
+  "description": "Utility to retrieve local keys for Tuya devices",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node debug.js"
+  },
+  "keywords": ["tuya", "iot", "local-control", "smart-home"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
